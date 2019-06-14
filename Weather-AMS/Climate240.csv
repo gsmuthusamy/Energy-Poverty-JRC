@@ -25,7 +25,7 @@ Direct: direct horizontal irradiance in W/m^2 calculated from GHI. The more comm
 Elevation: sun elevation in degrees above the horizon.
 Azimuth: sun azimuth in degrees relative to north.
 
-"ID []","Local []","Irradiation [W/m^2]","T_ambient [Degrees Celcius]","T_ground [Degrees Celcius]","Wind [m/s]","Cloud [okta]","Pressure [Pa]","Rain [mm/hr]","Diffuse [W/m^2]","Direct [W/m^2]","Elevation [Degrees]","Azimuth [Degrees]"
+"ID []","Local []","*Irradiation [W/m^2]*","T_ambient [Degrees Celcius]","T_ground [Degrees Celcius]","Wind [m/s]","Cloud [okta]","Pressure [Pa]","Rain [mm/hr]","Diffuse [W/m^2]","Direct [W/m^2]","Elevation [Degrees]","Azimuth [Degrees]"
 1,"0000-01-01 00:30:00",0,3.526,2.251,5.528,6.285,101490.537,0.065,0,0,-59.404,21.082
 2,"0000-01-01 01:30:00",0,3.338,2.169,5.487,5.931,101493.543,0.086,0,0,-54.394,44.796
 3,"0000-01-01 02:30:00",0,3.175,2.093,5.659,5.526,101487.139,0.103,0,0,-46.972,63.27
